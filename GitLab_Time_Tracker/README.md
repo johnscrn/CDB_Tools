@@ -24,7 +24,7 @@ source("GitLab_Time_Tracker.r")
   
 
 ### GitLab_Reports.r
-The `GitLab_Reports.r` script loads time data updated by update_report_data() in GitLab_Time_Tracker.r, collects issue tags from GitLab, and summarizes time by tag. To use this script open in R and modify to make the plots you want. Some examples are included. 
+The `GitLab_Reports.r` script loads time data updated by update_report_data() in GitLab_Time_Tracker.r, collects issue tags from GitLab, and summarizes time by tag. To use this script open in R and modify to make the plots you want. Some examples are included.  
 
 #### NOTE: Please read comments in the scripts for more details on how to use. This was created for internal use and will need some modification for anyone else to use
 
